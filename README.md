@@ -1,7 +1,10 @@
+#NOTE
+-I am unsure whether or not this works on windows or mac, I have only used it on linux
+
 #Implementation Overview
 
 -**Usage**
-    -To use this program, cd to the project folder, run the make commmand to generate an executable, and then run 
+    -To use this program, cd to the project folder, run the make command to generate an executable, and then run 
     >"./main {number of tasks} {maximum processing time}
     -Both arguments must be >= 1
 
